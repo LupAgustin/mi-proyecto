@@ -1,0 +1,12 @@
+C:\Users\Agustin\Desktop\Cine\Cine\CineBackend\obj\Debug\net6.0\CineBackend.csproj.AssemblyReference.cache
+C:\Users\Agustin\Desktop\Cine\Cine\CineBackend\obj\Debug\net6.0\CineBackend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Agustin\Desktop\Cine\Cine\CineBackend\obj\Debug\net6.0\CineBackend.AssemblyInfoInputs.cache
+C:\Users\Agustin\Desktop\Cine\Cine\CineBackend\obj\Debug\net6.0\CineBackend.AssemblyInfo.cs
+C:\Users\Agustin\Desktop\Cine\Cine\CineBackend\obj\Debug\net6.0\CineBackend.csproj.CoreCompileInputs.cache
+C:\Users\Agustin\Desktop\Cine\Cine\CineBackend\bin\Debug\net6.0\CineBackend.deps.json
+C:\Users\Agustin\Desktop\Cine\Cine\CineBackend\bin\Debug\net6.0\CineBackend.dll
+C:\Users\Agustin\Desktop\Cine\Cine\CineBackend\bin\Debug\net6.0\CineBackend.pdb
+C:\Users\Agustin\Desktop\Cine\Cine\CineBackend\obj\Debug\net6.0\CineBackend.dll
+C:\Users\Agustin\Desktop\Cine\Cine\CineBackend\obj\Debug\net6.0\refint\CineBackend.dll
+C:\Users\Agustin\Desktop\Cine\Cine\CineBackend\obj\Debug\net6.0\CineBackend.pdb
+C:\Users\Agustin\Desktop\Cine\Cine\CineBackend\obj\Debug\net6.0\ref\CineBackend.dll
